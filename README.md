@@ -1,0 +1,2 @@
+# YAMB
+YAMB - desktop app
